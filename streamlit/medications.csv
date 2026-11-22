@@ -1,0 +1,7 @@
+Medication Name,Active Ingredients,Dosage Frequency,Instructions,Urgency Level,Medication Category,Refill Status
+Panadol,Paracetamol,Once a day,After meals,Low,OTC,Stock Sufficient
+Adol,Paracetamol,3 times a day,After meals,Medium,OTC,
+Brufen,ibuprofen,Once a day,While eating,Low,OTC,Refill Needed
+Imuran,azathioprine,Twice a day,After meals,High,Prescription,
+vitamin D,Cholecalciferol,Once a week,While eating,Low,Supplement,
+vitamin C,Ascorbic acid,Once a day,While eating,Low,Supplement,
